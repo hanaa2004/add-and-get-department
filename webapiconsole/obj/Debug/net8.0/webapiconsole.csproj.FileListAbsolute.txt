@@ -1,0 +1,14 @@
+C:\Users\Hanaa\source\repos\webapiconsole\bin\Debug\net8.0\webapiconsole.exe
+C:\Users\Hanaa\source\repos\webapiconsole\bin\Debug\net8.0\webapiconsole.deps.json
+C:\Users\Hanaa\source\repos\webapiconsole\bin\Debug\net8.0\webapiconsole.runtimeconfig.json
+C:\Users\Hanaa\source\repos\webapiconsole\bin\Debug\net8.0\webapiconsole.dll
+C:\Users\Hanaa\source\repos\webapiconsole\bin\Debug\net8.0\webapiconsole.pdb
+C:\Users\Hanaa\source\repos\webapiconsole\obj\Debug\net8.0\webapiconsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hanaa\source\repos\webapiconsole\obj\Debug\net8.0\webapiconsole.AssemblyInfoInputs.cache
+C:\Users\Hanaa\source\repos\webapiconsole\obj\Debug\net8.0\webapiconsole.AssemblyInfo.cs
+C:\Users\Hanaa\source\repos\webapiconsole\obj\Debug\net8.0\webapiconsole.csproj.CoreCompileInputs.cache
+C:\Users\Hanaa\source\repos\webapiconsole\obj\Debug\net8.0\webapiconsole.dll
+C:\Users\Hanaa\source\repos\webapiconsole\obj\Debug\net8.0\refint\webapiconsole.dll
+C:\Users\Hanaa\source\repos\webapiconsole\obj\Debug\net8.0\webapiconsole.pdb
+C:\Users\Hanaa\source\repos\webapiconsole\obj\Debug\net8.0\webapiconsole.genruntimeconfig.cache
+C:\Users\Hanaa\source\repos\webapiconsole\obj\Debug\net8.0\ref\webapiconsole.dll
